@@ -1,5 +1,5 @@
 # FrameWorksT1
-Practicas 8vo Semestre 
+Practicas 8vo Semestre Git Hub
 
 
-Autor: Jesus Antonio Silva Castro 
+Modificacion hecho Trabajo 2 21/02/2022
